@@ -25,7 +25,7 @@ The solution utilizes coordinate compression to map the large time values to a s
 
 ## Code
 
-The main solution can be found in the [problem.cpp](Restaurant Customers.cpp) file.
+The main solution can be found in the [RestaurantCustomers.cpp](RestaurantCustomers.cpp) file.
 
 ## Video Explanations
 
