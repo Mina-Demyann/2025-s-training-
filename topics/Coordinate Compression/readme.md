@@ -25,13 +25,13 @@ The solution utilizes coordinate compression to map the large time values to a s
 
 ## Code
 
-The main solution can be found in the [problem.cpp](problem.cpp) file.
+The main solution can be found in the [problem.cpp](/Restaurant Customers.cpp) file.
 
 ## Video Explanations
 
 For a better understanding of coordinate compression, you can refer to the following video tutorials:
 
-1. [Coordinate Compression Explanation by Mahmoud Ayman | | محمود أيمن](https://www.y outube.com/watch?v=rDNgHaZVbtc&list=PLIOhtFzqhbbGroes7my01e8x6GtP71Ah4&index=6)
+1. [Coordinate Compression Explanation by Mahmoud Ayman](https://www.youtube.com/watchv=rDNgHaZVbtc&list=PLIOhtFzqhbbGroes7my01e8x6GtP71Ah4&index=6)
 2. [Coordinate Compression Concept by dr.mostafa saad](https://www.youtube.com/watch?v=nqJIXtfs7p4&t=399s)
 
 ## Mahmoud_Ayman's Sheet
