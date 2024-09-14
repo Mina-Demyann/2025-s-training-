@@ -1,4 +1,10 @@
-
+/*
+ * -> this is coded by Mina Demyan
+ * NOTES
+ * For a bipartite graph with sets RED and BLUE containing
+ * ( r ) and ( b ) nodes respectively
+ * , the maximum number of edges is ( r * b ).
+ */
 using namespace std;
 #include <algorithm>
 #include <numeric>
