@@ -2,7 +2,8 @@
 You are given an integer `n`, and you need to split it into two integers, `k` and `n - k`, such that the **LCM** (Least Common Multiple) of `k` and `n - k` is minimized.
 
 ## The Key Idea:
-The best way to minimize the **LCM** is to choose `k` as the largest proper factor of `n`. A proper factor of `n` is any factor of `n` other than `n` itself.
+The best way to minimize the **LCM** is to choose `k` as the largest proper factor of `n`.
+A proper factor of `n` is any factor of `n` other than `n` itself.
 
 ## Step-by-Step Breakdown:
 
