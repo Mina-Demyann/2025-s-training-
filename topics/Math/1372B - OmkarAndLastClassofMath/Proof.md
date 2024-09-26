@@ -21,8 +21,8 @@ To minimize the **LCM(k, n - k)**, it's crucial that `k` divides `n`, i.e., `k |
 
 ### 3. When `k` Divides `n` (`k | n`):
 - If `k` divides `n`, there exists some integer `m` such that: 
--m * k = n.
--n - k = (m - 1) * k.
+-`m * k = n`.
+-`n - k = (m - 1) * k`.
 
 
 which is also a multiple of `k`.
