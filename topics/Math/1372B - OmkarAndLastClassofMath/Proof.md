@@ -20,8 +20,10 @@ This implies that:
 To minimize the **LCM(k, n - k)**, it's crucial that `k` divides `n`, i.e., `k | n`. Let's prove this next.
 
 ### 3. When `k` Divides `n` (`k | n`):
-- If `k` divides `n`, there exists some integer `m` such that: 
+- If `k` divides `n`, there exists some integer `m` such that:
+  
 -`m * k = n`.
+
 -`n - k = (m - 1) * k`.
 
 
